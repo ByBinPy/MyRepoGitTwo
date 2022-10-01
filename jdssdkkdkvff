@@ -1,0 +1,46 @@
+[33mcommit d2bc186acab3b664a6c66b2b8ad47aab199c7e69[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: b80a866 c9f02f6
+Author: ByBinPy <bin.22@inbox.ru>
+Date:   Sun Oct 2 02:23:06 2022 +0300
+
+    Merge branch 'main' of https://github.com/ByBinPy/MyRepoGitTwo
+
+[33mcommit b80a866c909605d8943f41d63351ecb0da12f50e[m
+Merge: e9345c1 8657781
+Author: ByBinPy <bin.22@inbox.ru>
+Date:   Sun Oct 2 02:19:38 2022 +0300
+
+    Merge Commit
+
+[33mcommit 86577813cdab92876e2e1ed3a9b7f67eda0f2c61[m[33m ([m[1;32mrelease/Release[m[33m)[m
+Author: ByBinPy <bin.22@inbox.ru>
+Date:   Sun Oct 2 02:11:05 2022 +0300
+
+    Comlete README.md
+
+[33mcommit c9f02f67697d32f20fb699619fee6e98e1a03e02[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: e9345c1 5b065b8
+Author: ByBinPy <112859854+ByBinPy@users.noreply.github.com>
+Date:   Sun Oct 2 01:31:05 2022 +0300
+
+    Merge pull request #1 from ByBinPy/develop
+    
+    Add Help.txt
+
+[33mcommit 5b065b8838c45c005880bf39fb6423f9496e2f66[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: ByBinPy <bin.22@inbox.ru>
+Date:   Sun Oct 2 00:14:18 2022 +0300
+
+    Add Help.txt
+
+[33mcommit e9345c1bf512dad0ceb297da67615ef460d4370c[m
+Author: ByBinPy <112859854+ByBinPy@users.noreply.github.com>
+Date:   Sat Oct 1 23:24:52 2022 +0300
+
+    Create PrintMyName.py
+
+[33mcommit 1d5122b5ef13b07bc4c2f386fd787b8e81844900[m
+Author: ByBinPy <112859854+ByBinPy@users.noreply.github.com>
+Date:   Sat Oct 1 23:22:44 2022 +0300
+
+    Initial commit
